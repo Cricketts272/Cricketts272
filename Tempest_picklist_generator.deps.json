@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tempest_picklist_generator/1.0.0": {
+        "dependencies": {
+          "IronXL.Excel": "2022.3.0"
+        },
+        "runtime": {
+          "Tempest_picklist_generator.dll": {}
+        }
+      },
+      "IronXL.Excel/2022.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/IronXL.dll": {
+            "assemblyVersion": "2022.3.0.0",
+            "fileVersion": "2022.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tempest_picklist_generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IronXL.Excel/2022.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Sunj3e+i6gwwq00nOYd62Zd/bh42adpVTs2Fk3YSNa7iryM3kW0DFE2pMpfVJjHWdwFKfkf5sA3moZaQ/C6CZg==",
+      "path": "ironxl.excel/2022.3.0",
+      "hashPath": "ironxl.excel.2022.3.0.nupkg.sha512"
+    }
+  }
+}
